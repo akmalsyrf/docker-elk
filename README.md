@@ -13,7 +13,7 @@ the visualization power of Kibana.
 enabled by default (see [How to disable paid features](#how-to-disable-paid-features) to disable them). **The [trial
 license][trial-license] is valid for 30 days**. After this license expires, you can continue using the free features
 seamlessly, without losing any data.*
-
+ 
 Based on the official Docker images from Elastic:
 
 * [Elasticsearch](https://github.com/elastic/elasticsearch/tree/master/distribution/docker)
